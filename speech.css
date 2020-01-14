@@ -1,0 +1,38 @@
+
+body {
+  background: #222121;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+h1 {
+  color: #fff;
+}
+
+button {
+  margin-top: 10px;
+  border: 1px #666b7a solid;
+  border-radius: 8.5px;
+  background-color: #b3a94d;
+  color: #222121;
+  font-size: 25px;
+  width: 100%;
+  height: 35px;
+  cursor: pointer
+}
+
+
+textarea {
+  border-radius: 5px;
+  width: 330px;
+  height: 90px;
+}
